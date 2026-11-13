@@ -17,7 +17,7 @@ I am a **Journalist, Linguist, and AI Data Trainer** with 5+ years of experience
 
 * **Studio & Audio Hardware:** Acoustically treated recording environment equipped with **Saramonic** studio audio gear for broadcast-grade voice and acoustic dataset collection.
 * **Platforms & Annotation Suites:** Experienced across enterprise annotation and evaluation tools including **TryRating, Hubstaff, GT Studio, Multimango**, and custom JSON/Markdown rubric pipelines.
-* **Media & Data Tools:** macOS workflow, Adobe Photoshop, Affinity Photo, Python (basic data cleaning), and structured CSV/JSON dataset formatting.
+* **Media & Data Tools:** windows workflow, Adobe Photoshop, Affinity Photo, Python (basic data cleaning), and structured CSV/JSON dataset formatting.
 
 ---
 
@@ -25,6 +25,8 @@ I am a **Journalist, Linguist, and AI Data Trainer** with 5+ years of experience
 
 * 📌 **[llm-evaluation-and-prompt-rubrics](https://github.com)** – Structured RLHF grading rubrics, adversarial edge-case prompts, and Hindi-English localization benchmarks.
 * 📌 **[multimodal-annotation-guidelines](https://github.com)** – Standard operating procedures (SOPs) and JSON schemas for audio transcription, speaker diarization, and video action labeling.
+* * 📌 **[osint-environmental-data-journalism](https://github.com)** – Open-source intelligence (OSINT) methodologies, geolocation verification workflows, and structured urban environmental datasets.
+
 
 ---
 
